@@ -1,6 +1,7 @@
 # Trainind and Testing datasets for YOLOv5 fine-tuning and inference
 
--`test0/`* folder: test images directrly from dry-run, not dehazed. 
+-`test0/`* folder: test images directrly from dry-run, not dehazed.
+
 -`test1/`* folder:test images dehazed with pretrained FFA-net model (not finetuned on A2I2 dataset)
 -`train0/`* folder: train images directly from haze_images, not dehazed 
 -`train1/`* folder: train images (from haze_images folder)dehazed with pretrained-net model (not finetuned on A2I2 dataset)
