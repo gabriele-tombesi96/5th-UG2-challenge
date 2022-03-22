@@ -1,4 +1,4 @@
-# Trainind and Testing datasets for YOLOv5 fine-tuning and inference
+# Training and Testing datasets for YOLOv5 fine-tuning and inference
 
 -`test0/` folder: test images directrly from dry-run, not dehazed.
 
