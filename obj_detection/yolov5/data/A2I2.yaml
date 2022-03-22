@@ -1,0 +1,16 @@
+# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+# parent
+# ├── yolov5
+# └── datasets
+#     └── A2I2-Haze ← downloads here
+
+
+path: ../datasets/A2I2-Haze  # dataset root dir
+train: images/train6  # train images (relative to 'path') 128 images
+val: images/train6  # val images (relative to 'path') 128 images
+test:  images/test2 # test images (optional)
+
+# Classes
+nc: 1  # number of classes
+names: ['car']  # class names
+
