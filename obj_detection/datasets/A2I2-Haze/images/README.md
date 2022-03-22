@@ -27,3 +27,7 @@
 -`train/`: augmented dataset of FFA + FFA1 + FFA2 + FFA3
 
 -`test/`: FFA3
+
+
+
+*Note that FFAX stands for the corresponding set of images recursively fed X times through FFA-net inferences
