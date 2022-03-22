@@ -1,0 +1,6 @@
+vehicle 897 615 967 651 
+vehicle 747 659 833 712 
+vehicle 919 379 975 468 
+vehicle 555 636 685 725 
+vehicle 603 543 668 586 
+vehicle 589 372 684 474 
