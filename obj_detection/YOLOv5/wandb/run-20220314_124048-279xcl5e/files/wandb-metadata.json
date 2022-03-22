@@ -1,0 +1,32 @@
+{
+    "os": "Linux-3.10.0-1160.31.1.el7.x86_64-x86_64-with-glibc2.17",
+    "python": "3.9.6",
+    "heartbeatAt": "2022-03-14T16:40:49.165588",
+    "startedAt": "2022-03-14T16:40:48.413518",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--rect",
+        "--batch",
+        "16",
+        "--epochs",
+        "3",
+        "--data",
+        "A2I2.yaml",
+        "--weights",
+        "yolov5s.pt"
+    ],
+    "state": "running",
+    "program": "/home/gtombesi/DL_comp/yolov5/train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/ultralytics/yolov5",
+        "commit": "c13d4ce7ef30acc78e3dbdd9aa4f17e01ed34521"
+    },
+    "email": "gtombesi@cs.columbia.edu",
+    "root": "/home/gtombesi/DL_comp/yolov5",
+    "host": "corsica",
+    "username": "gtombesi",
+    "executable": "/usr/bin/Python-3.9.6/python"
+}
