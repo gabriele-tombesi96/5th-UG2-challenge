@@ -1,0 +1,1 @@
+Thw weights used to performe inferences with DWGAN can be downloaded at https://drive.google.com/file/d/1612XsgoUEx2Q3D7PPiLaEI5qZEEwVlVp/view and https://drive.google.com/file/d/1JkeGhdNwKi_9jObamjMtMlQ_b1i8WQ3r/view
