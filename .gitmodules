@@ -1,0 +1,3 @@
+[submodule "image_dehazing/AECR-Net"]
+	path = image_dehazing/AECR-Net
+	url = https://github.com/ma08/AECR-Net
