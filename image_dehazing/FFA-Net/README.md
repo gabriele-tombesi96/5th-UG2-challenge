@@ -1,1 +1,1 @@
-Borrowing this model from https://github.com/zhilin007/FFA-Net, we performed sevearl inferences run and a fine-tuning step, as described in the [repository report](../report.pdf). 
+Borrowing this model from https://github.com/zhilin007/FFA-Net, we performed several inferences runs and a single fine-tuning step followed by other inferences to augment the input dataset for YOLOv5 fine-tuning, as described in the [repository report](../report.pdf).
