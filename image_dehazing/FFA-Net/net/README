@@ -1,0 +1,11 @@
+-test_imgs initial test images
+-tested 1 2 3 4 corresponding test cycles 
+
+-train_imgs initial train images
+-trained 1 2 3 4 corresponding train cycles
+
+
+-pred_FFA_ots_train hazy train images dehazed with not finetuned FFA
+-pred_FFA_ots_0 hazy test images dehazed with not finetuned FFA
+-pred_FFA_ots_1 hazy test iamges dehazed with FFA finetune with just 100 steps and on raw training dataset
+-
