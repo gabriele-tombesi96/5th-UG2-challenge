@@ -38,8 +38,8 @@ Models used:
 ### DWGAN
 
 Drawbacks:
-    - Preprocess our training and testing images by applying both resizing and padding to obtain 1600x1200 sized images that are required by the model
-    - No finetuning API
+- Preprocess our training and testing images by applying both resizing and padding to obtain 1600x1200 sized images that are required by the model
+- No finetuning API
 
 Still offering promising results in the documentation provided by the creators, which is why we used it to augment our dataset with multiple inference experiments
 
