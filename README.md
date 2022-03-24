@@ -13,10 +13,10 @@ Please read [the report](/report.pdf) available in the home folder of this repos
    -  batch_size=32
 
 -  Training results summary
-![training](/figures/1.png)
+![training](figures/1.png)
 
 -  Example of object detection on test images
-![objdetect](/figures/2.png)
+![objdetect](figures/2.png)
 
 ## Image Dehazing
 Models used:
@@ -30,8 +30,8 @@ Models used:
       - Results slightly improved when inference is run recursively on previous results
     - Experiment with one-cycle of FFA-net prediction vs multiple runs recursively.
       - Slight increase in performance of the downstream yolov5 finetuning.
-    - Summary of results ![ffanetsum](/figures/3.png)
-    - Example ![ffanetexample](/figures/4.png)
+    - Summary of results ![ffanetsum](figures/3.png)
+    - Example ![ffanetexample](figures/4.png)
 
 ### DWGAN
 
@@ -45,15 +45,15 @@ Still offering promising results in the documentation provided by the creators, 
       - Use training images for finetuning yolov5
       - Use test images final yolov5 inference pass
 
-    - Summary ![dwgansum](/figures/5.png)
-    - Example ![dwganex](/figures/6.png)
+    - Summary ![dwgansum](figures/5.png)
+    - Example ![dwganex](figures/6.png)
 
 ### AECR-Net 
     - Run inference on our training and test data
     - Passed the dehazed training images to the finetuning of YOLO
     - Perform inference with the fine tuned yolo model on the dehazed test images
-    - Summary ![aecrnetsum](/figures/7.png)
-    - Example ![aecrnetex](/figures/8.png)
+    - Summary ![aecrnetsum](figures/7.png)
+    - Example ![aecrnetex](figures/8.png)
 
 ## Augmented Dataset Experiments
 Please check report for details.
