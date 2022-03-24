@@ -3,7 +3,7 @@
 Please read [the report](/report.pdf) available in the home folder of this repository for a better explanation regarding this project.
 
 ## Object Detection
-- [yolo_v5](https://github.com/gabriele-tombesi96/5th-UG2-challenge/tree/main/obj_detection/yolov5) is the chosen model
+- [yolo_v5](https://github.com/gabriele-tombesi96/5th-UG2-challenge/tree/main/obj_detection/yolov5) is the chosen model for object detection
 - Created custom fine-tuning dataset based on the training and dry-run set collected from the A2I2 dataset
   - Pre-processing step of the label files in order to comply with the bounding boxes coordinates format expected by the network
   - Created a custom configuration file for the dataset, in order to set the correct paths to the folders containing images and labels
